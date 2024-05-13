@@ -1,0 +1,2 @@
+# Hi_Tech_Order_Managment
+EntityFramework practice
